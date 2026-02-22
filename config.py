@@ -1,0 +1,3 @@
+HORARIO_ABERTURA = 10
+HORARIO_FECHAMENTO = 22
+DIAS_ABERTOS = [0, 1, 2, 3, 4, 5]  # 0 = segunda, 6 = domingo
